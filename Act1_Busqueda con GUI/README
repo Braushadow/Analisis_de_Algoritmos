@@ -1,0 +1,14 @@
+En esta practica, se requiere correr el archivo main.py (asegurarse de contar con una version de python ayor a 3.10), una vez que el 
+programa ha sido ejecutado, se desplegará una pantalla que será la GUI. 
+
+En la ventana que se abrió, se necesitara ingresar la cantidad de numeros aleatorios que se generarán, desde 100 hasta 100,000. Una vez 
+que se eligió la cantidad de numeros será necesario presionar el boton de generar datos. 
+
+Una vez que los datos fueron generados, se despliega una ventana con un aviso de que los datos fueron generados de manera exitosa. 
+Ya que se generó la lista, se le solicitará al usuario el numero que se buscara y se elige el tipo de busqueda que se desea realizar. 
+Una vez que se elige la busqueda, saldrá un mensaje que dirá si el numero se encuentra en la lista de numeros generada o no, y el tiempo
+de ejecución del algoritmo. En caso de que si se encuentre en la lista, dirá la posición en la que se encuentra el numero. 
+
+Una vez que se realizaron las busquedas, se presiona el boton de generar grafico, donde se registrará el tiempo promedio que le costó a 
+los algoritmos encontrar el numero que se ingresó. No conseguí que se actualizara el grafico con distintas pruebas, por lo que se tienen 
+que realizar las pruebas por separado para poder observar los resultados de manera adecuada. 
